@@ -10,6 +10,7 @@ namespace pis
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello pis world");
         }
     }
 }
